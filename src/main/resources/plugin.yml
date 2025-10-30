@@ -1,0 +1,5 @@
+name: NoTab
+version: '1.0'
+main: org.TogethersChannel.noTab.NoTab
+api-version: '1.21'
+depend: [ProtocolLib]
